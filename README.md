@@ -7,9 +7,9 @@
 [2015](wwww.github.com/itsN1x/Projects/2015)  
 [2016](wwww.github.com/itsN1x/Projects/2016)  
 #### Nailed
--
+x
 #### Failed
--
+x
 ## Future Projects
--
+x
 [2016](wwww.github.com/itsN1x/Projects/2016)
