@@ -3,16 +3,8 @@
 ## Past Projects
 
 ### Nailed
-*
-*
-*
-
-### Failed
-*
-*
-*
-
-
-## Future Projects
 -
+### Failed
+-
+## Future Projects
 -
